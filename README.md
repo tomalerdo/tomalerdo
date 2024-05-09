@@ -1,8 +1,8 @@
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Tem mulher que não depende de homem, Problema é delas.
 
-— Mona the Octocat
+— IG
 
 <div>
  <p align="center" >
