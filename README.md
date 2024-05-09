@@ -1,5 +1,9 @@
 <p align="center">
-𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙂𝙖𝙗𝙧𝙞𝙚𝙡𝙖 𝙈𝙞𝙡𝙚𝙮 𝙖𝙣𝙙 𝙄'𝙢 𝙖𝙣 𝙖𝙢𝙖𝙩𝙚𝙪𝙧 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙨𝙩𝙪𝙙𝙚𝙣𝙩!
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
 </p>
 
 <div>
