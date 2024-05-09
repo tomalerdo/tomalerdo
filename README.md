@@ -1,8 +1,4 @@
 
----
-> Tem mulher que não depende de homem, Problema é delas.
-
-— IG
 
 <div>
  <p align="center" >
@@ -28,5 +24,10 @@
   <a href="https://www.instagram.com/deletaram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
-  
+
+
+ ---
+> Tem mulher que não depende de homem, Problema é delas.
+
+— IG
 
