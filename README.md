@@ -24,7 +24,7 @@
 
 
  ---
-> Tem mulher que não depende de homem, Problema é delas.
+> Tem mulher que não depende de homens.
 
 — IG
 
