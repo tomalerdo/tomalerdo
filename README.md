@@ -24,7 +24,6 @@
 
 
  ---
-> Tem mulher que não depende de homem.
+> Uma programadora preguiçosa e amante de café.
 
-— IG
 
